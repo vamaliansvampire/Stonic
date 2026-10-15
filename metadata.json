@@ -1,0 +1,6 @@
+{
+  "name": "Stonic",
+  "description": "Futuristic AI Assistant inspired by JARVIS featuring voice conversation, Gemini intelligence, multimodal tools, and cybernetic HUD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
